@@ -3,6 +3,6 @@ def calculate_area(length, width):
     area = length * width
     return area
 
-# TEST RUN
+# TESTING
 output = calculate_area(5, 10)
 print(f"The calculated area is: {output}")
